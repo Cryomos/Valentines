@@ -9,7 +9,7 @@ function afterYes() {
   Button1.remove();
   Button2.remove();
 }
-const attempts = 5;
+const attempts = 10;
 const gifList = [
   "https://tenor.com/view/goma-sad-gif-411134658282219592.gif", //gomma lying on floor
   "https://tenor.com/view/peach-peachcry-cry-tissue-emote-gif-27496755.gif" /*tear wipe*/,
